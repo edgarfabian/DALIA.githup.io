@@ -1,0 +1,29 @@
+.Box1{
+  background: rgb(244, 81, 11);
+  height: 30PX;
+  width: 100px;
+  border: 5px solid rgb(238, 27, 27);
+  text-align: center;
+  font-family: arial;
+}
+
+.Box1.azul{
+  background: rgb(71, 11, 244);
+  height: 30PX;
+  width: 100px;
+  border: 5px solid rgb(238, 27, 27);
+  text-align: center;
+  font-family: arial;
+}
+.button1{
+  background: rgb(37, 244, 11);
+  height: 30PX;
+  width: 100px;
+  border: 5px solid rgb(238, 27, 27);
+  text-align: center;
+  font-family: arial;
+}
+
+.button1:hover{
+  background: rgb(244, 11, 60);
+}
